@@ -1,5 +1,5 @@
 <h1 align="center"> 💫 About Me: </h1>
-🔭 Líder de [Elite 6-27](https://elite6-27.cf)<br>🌱 Area principal **Pentesting, pero aún así amo la programación**<br>👯 Desarollando [ShadowWeb [WIP]](#)<br>🤝 Mis lenguajes favoritos son **Python, PHP, JavaScript y Bash**<br>💬 Contactame como **@Genplat en Telegram**<br>📫 Mi correo es **genplat@elite6-27.cf**<br>⚡ La mayoría de mis proyectos públicos son **de paga**
+🔭 Líder de <a href="https://elite6-27.cf">Elite 6-27</a><br>🌱 Area principal <b>Pentesting, pero aún así amo la programación</b><br>👯 Desarollando ShadowWeb [WIP]<br>🤝 Mis lenguajes favoritos son <b>Python, PHP, JavaScript y Bash</b><br>💬 Contactame como <b>@Genplat en Telegram</b><br>📫 Mi correo es <b>genplat@elite6-27.cf</b><br>⚡ La mayoría de mis proyectos públicos son <b>de paga</b>
 
 
 ## 🌐 Socials:
