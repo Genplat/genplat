@@ -1,5 +1,13 @@
+<div align="center">
 <h1 align="center"> 💫 About Me: </h1>
-🔭 Líder de <a href="https://elite6-27.cf">Elite 6-27</a><br>🌱 Area principal <b>Pentesting, pero aún así amo la programación</b><br>👯 Desarollando ShadowWeb [WIP]<br>🤝 Mis lenguajes favoritos son <b>Python, PHP, JavaScript y Bash</b><br>💬 Contactame como <b>@Genplat en Telegram</b><br>📫 Mi correo es <b>genplat@elite6-27.cf</b><br>⚡ La mayoría de mis proyectos públicos son <b>de paga</b>
+<h4> Desarollador y hacker desde el 2012. </h4>
+<img align="center" alt="Leader @ Elite 6-27" src="https://img.shields.io/badge/Elite%206--27-8A2BE2?style=for-the-badge&logo=verizon&logoColor=008f39&label=Leader%20Of&labelColor=000000&color=ffffff">
+</div>
+<img alt="Hak5 Contributor" src="https://img.shields.io/badge/Hak5-8A2BE2?style=for-the-badge&logo=stackblitz&logoColor=008f39&label=Contributer%20at&labelColor=000000&color=ff0000">
+<img alt="Developing sw" src="https://img.shields.io/badge/ShadowWeb-8A2BE2?style=for-the-badge&logo=checkmarx&logoColor=008f39&label=Developing&labelColor=000000&color=ff5099">
+<img alt="Developer & Hacker" src="https://img.shields.io/badge/hacker-8A2BE2?style=for-the-badge&logo=hackaday&logoColor=ff0000&label=Developer%20and&labelColor=000000&color=8A2BE2">
+<br>
+🔭 Líder de <a href="https://elite6-27.cf">Elite 6-27</a><br>🌱 Area principal <b>Pentesting, pero aún así amo la programación</b><br>👯 Desarollando ShadowWeb [WIP]<br>🤝 Mis lenguajes favoritos son <b>Python, PHP, JavaScript y Bash</b><br>💬 Contactame como <b><a href="https://t.me/Genplat">@Genplat en Telegram</a></b><br>📫 Mi correo es <b><a href="mailto:genplat@elite6-27.cf">genplat@elite6-27.cf</a></b><br>⚡ La mayoría de mis proyectos públicos son <b>de paga</b>
 
 
 ## 🌐 Socials:
