@@ -1,13 +1,13 @@
-<div align="center">
-<h1 align="center"> 💫 About Me: </h1>
+<div alinear="centro">
+<h1 alinear="centro"> Sobre mí: </h1 >
 <h4> Desarollador y hacker desde el 2012. </h4>
-<img alt="CEO @ ShadowWeb" src="https://img.shields.io/badge/ShadowWeb-8A2BE2?style=for-the-badge&logo=verizon&logoColor=008f39&label=CEO%20Of&labelColor=000000&color=ffffff"/>
-<img alt="Hak5 Contributor" src="https://img.shields.io/badge/Hak5-8A2BE2?style=for-the-badge&logo=stackblitz&logoColor=008f39&label=Contributer%20at&labelColor=000000&color=ff0000"/>
-<img alt="Developing sw" src="https://img.shields.io/badge/ShadowWeb-8A2BE2?style=for-the-badge&logo=checkmarx&logoColor=008f39&label=Developing&labelColor=000000&color=ff5099"/>
-<img alt="Developer & Hacker" src="https://img.shields.io/badge/hacker-8A2BE2?style=for-the-badge&logo=hackaday&logoColor=ff0000&label=Developer%20and&labelColor=000000&color=8A2BE2"/>
-</div>div>
+<img alt="CEO @ ShadowWeb" src="https://img.shields.io/badge/ShadowWeb-8A2BE2?style = for-the-badge&logo = verizon&logoColor = 008f39&etiqueta = CEO% 20Of&labelColor = 000000&color = fffff "/>
+<img alt="Contribuyente Hak5" src="https://img.shields.io/badge/Hak5-8A2BE2?style = for-the-badge&logo = stackblitz&logoColor = 008f39&etiqueta = Contribuidor% 20at&labelColor = 000000&color = ff0000 "/>
+<img alt="Desarrollo sw" src="https://img.shields.io/badge/ShadowWeb-8A2BE2?style = for-the-badge&logo = checkmarx&logoColor = 008f39&etiqueta = Desarrollando&labelColor = 000000&color = ff5099 "/>
+<img alt="Desarrollador & Hacker " src="https://img.shields.io/badge/hacker-8A2BE2?style = for-the-badge&logo = hackaday&logoColor = ff0000&etiqueta = Desarrollador% 20 y&labelColor = 000000&color = 8A2BE2 "/>
+</div >
 <br>
-🔭 CEO de ShadowWeb<br>🌱 Area principal <b>Pentesting, pero aún así amo la programación</b><br>👯 Desarollando ShadowWeb [WIP]<br>🤝 Mis lenguajes favoritos son <b>Python, PHP, JavaScript y Bash</b><br>💬 Contactame como <b><a href="https://t.me/Genplat">@Genplat en Telegram</a></b><br>📫 Mi correo es <b><a href="mailto:genplat@proton.me">genplat@proton.me</a></b><br>⚡ La mayoría de mis proyectos públicos son <b>de paga</b>
+ CEO de ShadowWeb<br> Área principal <b>Pentesting, pero también como la programación</b><br> Desarollando ShadowWeb [WIP]<br> ⁇  Mis lenguajes favoritos son <b>Python, PHP, JavaScript y Bash</b><br> Contactame como <b><a href="https://t.me/Genplat">@Genplat en Telegram</a></b><br>📫 Mi correo es <b><a href="mailto:genplat@proton.me">genplat@proton.me</a></b><br>⚡ La mayoría de mis proyectos públicos son <b>de paga</b>
 
 
 ## 🌐 Socials:
